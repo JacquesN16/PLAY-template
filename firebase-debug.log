@@ -1,0 +1,23 @@
+[debug] [2021-11-02T13:25:29.172Z] ----------------------------------------------------------------------
+[debug] [2021-11-02T13:25:29.175Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\jnguy\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-02T13:25:29.176Z] CLI Version:   9.21.0
+[debug] [2021-11-02T13:25:29.176Z] Platform:      win32
+[debug] [2021-11-02T13:25:29.176Z] Node Version:  v14.16.0
+[debug] [2021-11-02T13:25:29.178Z] Time:          Tue Nov 02 2021 14:25:29 GMT+0100 (Central European Standard Time)
+[debug] [2021-11-02T13:25:29.179Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-02T13:25:29.192Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-02T13:25:29.193Z] > authorizing via signed-in user (j.nguyen14216@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\jnguy\Desktop\landing-page\play-bootstrap-main
+
+[error] 
+[error] Error: Must select at least one feature. Use SPACEBAR to select features, or specify a feature by running firebase init [feature_name]
